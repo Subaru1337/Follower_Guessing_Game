@@ -59,6 +59,5 @@ import os
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
 
-📜 License
-This project is licensed under the MIT License.
+
 
